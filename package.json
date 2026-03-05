@@ -30,6 +30,6 @@
     "prettier": "^3.4.2",
     "simple-git-hooks": "^2.11.1",
     "stylelint": "^16.11.0",
-    "svgo": "^3.3.2"
+    "svgo": "^3.3.3"
   }
 }
